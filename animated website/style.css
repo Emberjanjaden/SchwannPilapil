@@ -1,0 +1,25 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+  }
+  
+  .heading {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  h2 {
+    font-size: 25px;
+  }
+  
+  .animation {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    background-color: #000;
+    margin: 25px auto;
+  }
